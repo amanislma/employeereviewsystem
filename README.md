@@ -24,9 +24,8 @@ node --version
 npm --version
 git --version
 ```
-
 ```
-3. Change directory to Ecomerce-API
+2. Change directory to Ecomerce-API
 ```go
 cd employee-review-system
 ```
